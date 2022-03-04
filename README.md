@@ -21,8 +21,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
  </div>
-
+ 
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyakathirvel26&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyakathirvel26)](https://github.com/anuraghazra/github-readme-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Divyakathirvel26&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Divyakathirvel26)
+<div>
+  <imd src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</div>
+
+
