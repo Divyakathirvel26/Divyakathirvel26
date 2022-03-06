@@ -3,7 +3,7 @@
 - 🔭 I’m currently pursuring Engineering
 - 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about tech related stuff...
-- 📫 How to reach me [Twitter - @Divya23854362](https://twitter.com/Divya23854362)
+- 📫 How to reach me [Twitter - @Divya23854362](https://twitter.com/Divya23854362), [LinkedIn - @Divya Kathirvel](https://www.linkedin.com/in/divya-kathirvel-96b5511b1/)
 - ⚡ Fun fact: I love to draw and listen to songs.
 
 ### :hammer_and_wrench: Languages and Tools :
