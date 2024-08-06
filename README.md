@@ -20,11 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/> 
-  <img src="https://spark.apache.org/images/spark-logo-trademark.png" title="PySpark" alt="PySpark" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure Blob Storage" alt="Azure Blob Storage" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure Data Lake" alt="Azure Data Lake" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure Key Vault" alt="Azure Key Vault" width="40" height="40"/> 
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" title="PySpark" alt="PySpark" width="40" height="40"/>  
  </div>
  
 ### 😂 Here is a random joke that'll make you laugh!
