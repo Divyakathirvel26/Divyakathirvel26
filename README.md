@@ -1,10 +1,10 @@
 ### Hi there,I'm Divya Kathirvel 👋
 
-- 🔭 I’m currently pursuring Engineering
-- 🌱 I’m currently learning Artificial Intelligence
+- 🔭 I’m currently working in Dexian.
+- 🌱 I’m currently learning Azure Data Factory and Snowflake
 - 💬 Ask me about tech related stuff...
-- 📫 How to reach me [Twitter - @Divya23854362](https://twitter.com/Divya23854362), [LinkedIn - @Divya Kathirvel](https://www.linkedin.com/in/divya-kathirvel-96b5511b1/)
-- ⚡ Fun fact: I love to draw and listen to songs.
+- 📫 How to reach me [LinkedIn - @Divya Kathirvel](https://www.linkedin.com/in/divya-kathirvel-96b5511b1/)
+- ⚡ Fun fact: I love to sketch portraits and listen songs.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -15,11 +15,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/> 
+  <img src="https://databricks.com/wp-content/uploads/2021/11/favicon-1.png" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/> 
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" title="PySpark" alt="PySpark" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/> 
  </div>
  
 ### 😂 Here is a random joke that'll make you laugh!
